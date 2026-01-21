@@ -1,8 +1,8 @@
 # OmotayoAkande
 Cybersecurity Project Portfolio
-# Firstname Lastname's IT and Cybersecurity Project Portfolio 🔐
+# Omotayo Akande's Cybersecurity Project Portfolio 🔐
 
-# Firstname Lastname - Cybersecurity-SOC-GRC | Cyber Security Analyst| GRC | Security Operations & Vulnerability Management | Skilled in SIEM, XDR/EDR, Digital Forensics & Incident Response | CompTIA Certified | MSc Cybersecurity Graduate (AU)| ISC2 Certified| Google Certified
+# Omotayo Akande - Cybersecurity-SOC-GRC | Cyber Security Analyst| GRC | Security Operations & Vulnerability Management | Skilled in SIEM, XDR/EDR, Digital Forensics & Incident Response.
 
 # Hello, I'm  Omotayo Akande
 <a href="https://linkedin.com/in/omotayo-k-akande"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -32,9 +32,9 @@ What I focus on:
 - Career development: building a strong portfolio on GitHub, documenting labs clearly, and continuously improving technical and governance skills.
 
 Contact / Links:
-- LinkedIn: [Copy/Paste LinkedIn URL]
+- LinkedIn: [www.linkedin.com/in/omotayo-k-akande]
 - Portfolio: [copy your Porfolio GitHub URL and paste]
-- Email: [Copy/Paste Your Email]
+- Email: [bello.omotayo59@gmail.com]
 
 ---
 
@@ -70,9 +70,9 @@ I am particularly interested in Tier 1/Tier 2 SOC analyst roles and junior GRC a
 
 ---
 
-## Skills
+## Cybersecurity Projects
 
-| Real-World Hands-On Projects| Associated Projects Portfolios (Template) 
+| cybersecurity SOC & GRC Projects (Template) 
 |------------------------------------------------|---------------------------------------------------------------------|
 | SIEM Implementation and Log Analysis | <a href="https://github.com/ceciliaonubogu/SOC-Detection-Labs">SOC Detection Lab</a> |
 | Network Traffic Monitoring and Attack Detection| <a href="https://github.com/yourusername/detection-lab">Detection Lab</a> |
