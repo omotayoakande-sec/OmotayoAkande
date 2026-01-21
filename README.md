@@ -33,7 +33,8 @@ What I focus on:
 
 Contact / Links:
 - LinkedIn: [www.linkedin.com/in/omotayo-k-akande]
-- Portfolio: [copy your Porfolio GitHub URL and paste]
+- Portfolio: [github
+https://github.com/omotayoakande-sec]
 - Email: [bello.omotayo59@gmail.com]
 
 ---
@@ -73,13 +74,12 @@ I am particularly interested in Tier 1/Tier 2 SOC analyst roles and junior GRC a
 ## Cybersecurity Projects
 
 | cybersecurity SOC & GRC Projects (Template) 
-|------------------------------------------------|---------------------------------------------------------------------|
-| SIEM Implementation and Log Analysis | <a href="https://github.com/ceciliaonubogu/SOC-Detection-Labs">SOC Detection Lab</a> |
-| Network Traffic Monitoring and Attack Detection| <a href="https://github.com/yourusername/detection-lab">Detection Lab</a> |
-| Security Automation with Shuffle SOAR | <a href="https://github.com/yourusername/soc-automation">SOC Automation Lab</a> |
-| Incident Response Planning and Execution | <a href="https://github.com/yourusername/incident-response-casebook">IR Casebook</a> |
-| Case Management with TheHive | <a href="https://github.com/yourusername/soc-automation">SOC Automation Lab</a> |
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/yourusername/threat-hunting-pack">Threat Hunting Pack</a> |
+| Project                                                    | Repository                                                                                        |
+| ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| Incident Response – Brute Force Attack                     | <a href="https://github.com/yourusername/ir-brute-force-attack">IR Brute Force Attack</a>         |
+| Incident Response – PowerShell Suspicious Web Request      | <a href="https://github.com/yourusername/ir-powershell-web-request">IR PowerShell Web Request</a> |
+| Incident Response – Potential Impossible Travel            | <a href="https://github.com/yourusername/ir-impossible-travel">IR Impossible Travel</a>           |
+| Incident Response – Excessive Resource Creation / Deletion | <a href="https://github.com/yourusername/ir-resource-abuse">IR Resource Abuse</a>                 |
 
 These skills and project structures align with common SOC and GRC portfolio expectations for entry-level and junior roles.
 
