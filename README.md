@@ -76,7 +76,7 @@ I am particularly interested in Tier 1/Tier 2 SOC analyst roles and junior GRC a
 | cybersecurity SOC & GRC Projects (Template) 
 | Project                                                    | Repository                                                                                        |
 | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| Incident Response – Brute Force Attack                     | <a href="https://github.com/yourusername/ir-brute-force-attack">IR Brute Force Attack</a>         |
+| Incident Response – Brute Force Attack                     | <a href="https://github.com/omotayoakande-sec/Incident-Response-Brute-Force-Attack-.git">IR Brute Force Attack</a>         |
 | Incident Response – PowerShell Suspicious Web Request      | <a href="https://github.com/yourusername/ir-powershell-web-request">IR PowerShell Web Request</a> |
 | Incident Response – Potential Impossible Travel            | <a href="https://github.com/yourusername/ir-impossible-travel">IR Impossible Travel</a>           |
 | Incident Response – Excessive Resource Creation / Deletion | <a href="https://github.com/yourusername/ir-resource-abuse">IR Resource Abuse</a>                 |
