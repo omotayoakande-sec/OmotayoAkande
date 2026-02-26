@@ -163,19 +163,6 @@ These tools are widely used in SOC environments and are commonly included in han
 
 ---
 
-## Certifications (Template Badges)
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
-
-Replace or remove badges so they only show certifications you actually hold, aligning with best practice for honest portfolio representation. [web:21][web:24]
-
----
-
 ## Projects – Detection Lab & SOC/GRC Portfolio
 
 ### 1) Detection Lab (SIEM + Telemetry + Detections)
